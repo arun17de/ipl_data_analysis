@@ -6,3 +6,5 @@ The app performs the following tasks :
   2.Assess Toss Advantage
   3.Analyze Matches Played by Each Team
   4.Calculate Winning Percentage by Team
+**Disclaimer**
+Open for educational use. If you use this project, feel free to drop a mail at arunbalaji2021@gmail.com 
